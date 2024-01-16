@@ -1,5 +1,5 @@
 # Sentiment-analysis-with-LLMs
-A collection of sentiment analysis made with pre-trained LLMs.
+A collection of sentiment analysis made with pre-trained LLMs. One applies to Chinese hotel reviews, and the other to twitter tweets.
 
 
 ## Usage
